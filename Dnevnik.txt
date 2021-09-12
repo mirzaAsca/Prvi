@@ -1,1 +1,2 @@
-Ovo je dnevnik jednog programera.
+Ovo je dnevnik jednog programera. 
+Ovdje programer pise kako programira.
